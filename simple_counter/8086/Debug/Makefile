@@ -16,9 +16,9 @@ LDFLAGS=/CODEVIEW
 ## Processing Tools
 ASM=ml.exe
 LD=link16.exe
-#  C:/Users/ilyas/source/repos/8086_simulations/simple_counter/8086/Debug/Debug.exe: TOOL=LD
-#     C:/Users/ilyas/source/repos/8086_simulations/simple_counter/8086/Debug/main.obj: TOOL=ASM
-#        C:/Users/ilyas/source/repos/8086_simulations/simple_counter/8086/main.asm
+#  C:/Users/ilyas/source/repos/blm3031/counter/8086/Debug/Debug.exe: TOOL=LD
+#     C:/Users/ilyas/source/repos/blm3031/counter/8086/Debug/main.obj: TOOL=ASM
+#        C:/Users/ilyas/source/repos/blm3031/counter/8086/main.asm
 
 # Build tree:
 all:	Debug
